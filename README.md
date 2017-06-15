@@ -1,4 +1,4 @@
-#雏鹰工作室
+# 雏鹰工作室
 
 ------------
 
@@ -13,8 +13,8 @@
 ------------
 
 对本工作室感兴趣请访问：
-[[1]雏鹰工作室][chuying]
-[chuying]: http://210.29.97.35/chuying_studio/ "Chuying_studio"
+[[1]雏鹰工作室]
+http://210.29.97.35/chuying_studio/ "Chuying_studio"
 
 ------------
 
